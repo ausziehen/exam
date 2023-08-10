@@ -1,0 +1,15 @@
+C:\Users\Тионс\Desktop\end9\ex00001\bin\Debug\net7.0\ex00001.exe
+C:\Users\Тионс\Desktop\end9\ex00001\bin\Debug\net7.0\ex00001.deps.json
+C:\Users\Тионс\Desktop\end9\ex00001\bin\Debug\net7.0\ex00001.runtimeconfig.json
+C:\Users\Тионс\Desktop\end9\ex00001\bin\Debug\net7.0\ex00001.dll
+C:\Users\Тионс\Desktop\end9\ex00001\bin\Debug\net7.0\ex00001.pdb
+C:\Users\Тионс\Desktop\end9\ex00001\obj\Debug\net7.0\ex00001.csproj.AssemblyReference.cache
+C:\Users\Тионс\Desktop\end9\ex00001\obj\Debug\net7.0\ex00001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тионс\Desktop\end9\ex00001\obj\Debug\net7.0\ex00001.AssemblyInfoInputs.cache
+C:\Users\Тионс\Desktop\end9\ex00001\obj\Debug\net7.0\ex00001.AssemblyInfo.cs
+C:\Users\Тионс\Desktop\end9\ex00001\obj\Debug\net7.0\ex00001.csproj.CoreCompileInputs.cache
+C:\Users\Тионс\Desktop\end9\ex00001\obj\Debug\net7.0\ex00001.dll
+C:\Users\Тионс\Desktop\end9\ex00001\obj\Debug\net7.0\refint\ex00001.dll
+C:\Users\Тионс\Desktop\end9\ex00001\obj\Debug\net7.0\ex00001.pdb
+C:\Users\Тионс\Desktop\end9\ex00001\obj\Debug\net7.0\ex00001.genruntimeconfig.cache
+C:\Users\Тионс\Desktop\end9\ex00001\obj\Debug\net7.0\ref\ex00001.dll
